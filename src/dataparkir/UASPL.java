@@ -266,8 +266,8 @@ private void inisialisasi(){
         textTotal.setText("0");
         textPanggilan.setText("-----");
         
-        txtAtas1.setText("Yaskur Bank");
-        txtAtas2.setText("Jl.Bupati");
+        txtAtas1.setText("Bagas Bank");
+        txtAtas2.setText("Jl.Aku Suka Dia");
         txtAtas3.setText("Kota Pekanbaru");
         txtAtas4.setText("Senin, 28 juni 2021");
         txtAtas5.setText("Nomor Antrian");
